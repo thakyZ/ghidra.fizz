@@ -8,9 +8,9 @@ import ghidra.app.context.NavigatableContextAction;
 import ghidra.app.nav.Navigatable;
 import ghidra.app.services.GoToService;
 import ghidra.framework.plugintool.PluginTool;
-import ghidra.framework.plugintool.util.ToolConstants;
 import ghidra.program.util.InteriorSelection;
 import ghidra.program.util.ProgramSelection;
+import docking.tool.ToolConstants;
 
 import java.awt.event.InputEvent;
 import java.awt.event.KeyEvent;
